@@ -6,3 +6,8 @@
 /*.rbxl.lock
 
 sourcemap.json
+
+# Local place backups and place files (never commit the game file)
+/backups/
+*.rbxl
+*.rbxlx
